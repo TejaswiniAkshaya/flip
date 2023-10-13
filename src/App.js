@@ -14,7 +14,9 @@ function App() {
   return (
     <>
     <Tables/>
-    <BootForm/>
+
+    
+  <BootForm/>
 
     <Comp1/>
     <Comp8/>
